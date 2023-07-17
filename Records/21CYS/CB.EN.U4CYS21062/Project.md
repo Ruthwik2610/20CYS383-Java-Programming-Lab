@@ -13,9 +13,9 @@
 ### Module Split-up
 | Name | Topic |
 |------|-------|
-| Ruthwik|input validation, colorscheme |
+| Ruthwik|Input validation, colorscheme |
 | Vinayak |GUI  |
-| Manomithran |Exeption handling  |
+| Manomithran |Exception handling  |
  
 
 ### Code
