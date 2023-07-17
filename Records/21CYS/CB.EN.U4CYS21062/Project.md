@@ -376,7 +376,7 @@ public class VulnerabilityReportForm extends JFrame {
 ````
 
 ### Demo
-![image]([docs/assets/GIF/2023-07-17_10h04_25 - Trim.gif](https://github.com/Ruthwik2610/20CYS383-Java-Programming-Lab/blob/main/Records/21CYS/CB.EN.U4CYS21062/docs/assets/GIF/2023-07-17_10h04_25%20-%20Trim.gif))
+![image](https://github.com/Ruthwik2610/20CYS383-Java-Programming-Lab/blob/main/Records/21CYS/CB.EN.U4CYS21062/docs/assets/GIF/2023-07-17_10h04_25%20-%20Trim.gif))
 
 #### Screenshots
 
