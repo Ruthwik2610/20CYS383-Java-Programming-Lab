@@ -376,6 +376,7 @@ public class VulnerabilityReportForm extends JFrame {
 ````
 
 ### Demo
+![image](docs/assets/GIF/2023-07-17_10h04_25 - Trim.gif)
 
 #### Screenshots
 
@@ -387,3 +388,4 @@ public class VulnerabilityReportForm extends JFrame {
 &nbsp &nbsp &nbsp
 <img src="docs/assets/images/4.png" width="300" height="450">
 &nbsp &nbsp &nbsp
+
