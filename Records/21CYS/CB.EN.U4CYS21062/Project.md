@@ -379,6 +379,6 @@ public class VulnerabilityReportForm extends JFrame {
 
 #### Screenshots
 
-<img src="[https://github.com/Ruthwik2610/20CYS383-Java-Programming-Lab/docs/assets/images/1.png](https://github.com/Ruthwik2610/20CYS383-Java-Programming-Lab/docs/assets/images/1.png)" width="300" height="450">
+<img src="[https://github.com/Ruthwik2610/20CYS383-Java-Programming-Lab/docs/assets/images/1.png]" width="300" height="450">
 &nbsp &nbsp &nbsp
 <img src="[https://github.com/Ruthwik26103/20CYS383-Java-Programming-Lab/assets/92969109/77060703-a6a0-4d94-a536-481651f868d3](https://github.com/Ruthwik2610/20CYS383-Java-Programming-Lab/assets/images/1.png)https://github.com/Ruthwik2610/20CYS383-Java-Programming-Lab/assets/images/1.png" width="300" height="450">
